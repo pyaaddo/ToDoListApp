@@ -8,11 +8,9 @@ body {
     width: 100%;
     font-family: Nunito, sans-serif;
     background-color: white;
-    height: auto;
-    margin: auto;
     background: url(./back1.svg);
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
+    /* background-repeat: no-repeat;
+    background-size: 100% 100%; */
     
 }
 
@@ -34,7 +32,7 @@ p {
 
 .tdl {
     width: 100%;
-    height: auto;
+    height: 700px;
     
 }
 
